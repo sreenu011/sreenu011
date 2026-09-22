@@ -1,5 +1,14 @@
-# 💫 About Me:
-Computer Science graduate with a specialization in AI & ML, PARUSU SREENU brings foundational data analysis skills. Built Python and SQL-based solutions for analyzing soil, weather, and crop data in academic projects, and implemented mood-based music recommendation systems. Currently applies these skills as a Data Analyst, assisting in data cleaning, validation, and exploratory data analysis to identify trends and patterns, and preparing structured reports and dashboards for data-driven insights.<br>
+## 👋 About Me
+
+🎓 B.Tech graduate specializing in Artificial Intelligence & Machine Learning.
+
+💻 I’m passionate about Python, SQL, Data Analysis, and Full-Stack Development, with hands-on experience building academic and personal projects.
+
+📊 I enjoy working with data to clean, analyze, visualize, and identify meaningful patterns using Python, Pandas, MySQL, Excel, and Power BI.
+
+🚀 Currently strengthening my skills in Django, JavaScript, Firebase, and modern web development while building practical projects.
+
+🎯 Looking for opportunities where I can apply my technical skills, solve real-world problems, and continue growing as a software/data professional.
 
 
 ## 🌐 Socials:
